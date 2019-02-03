@@ -8,6 +8,9 @@ walk_spd = 1.5;
 hsp_decimal = 0;
 vsp_decimal = 0;
 jump_spd = -5;
+jump_dampner = 2.5;
+jumps_initial = 2;
+jumps = jumps_initial;
 
 // friction
 drag = 0.12;
@@ -22,6 +25,7 @@ up = 0;
 down = 0;
 attack = 0;
 jump = 0;
+jump_held = 0;
 block = 0;
 
 // states

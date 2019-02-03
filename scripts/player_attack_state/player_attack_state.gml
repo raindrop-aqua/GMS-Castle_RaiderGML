@@ -7,11 +7,25 @@ calc_movement();
 
 // Check State
 if (image_index >= image_number - image_speed) {
-	if (hsp != 0) {
-		state = states.WALK;
+	if (not on_ground()) {
+		state = states.JUMP;
 	} else {
-		state = states.IDLE;
+		if (hsp != 0) {
+			state = states.WALK;
+		} else {
+			state = states.IDLE;
+		}
 	}
+}
+
+if (jump) {
+	jumped();
+	state = states.ATTACK;
+}	
+
+// Enable smaller jump
+if (vsp < 0 and not jump_held) {
+	vsp = max(vsp, jump_spd / jump_dampner);	
 }
 
 // Apply movement

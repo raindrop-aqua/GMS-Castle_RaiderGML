@@ -495,6 +495,25 @@
             }
         },
         {
+            "Key": "7cbfa3fc-4571-416f-a2f3-4b3a613aed70",
+            "Value": {
+                "id": "d470d2dc-165a-44ef-a0a2-82efa259babb",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_player_dust_land\/s_player_dust_land.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "88903599-eb37-4cfc-ab71-15bafa217ebc",
             "Value": {
                 "id": "3390d29c-e3d7-4156-a296-4f73f488dfbc",
@@ -818,6 +837,25 @@
             }
         },
         {
+            "Key": "b75b9120-b944-4d09-926c-d2aed051ae68",
+            "Value": {
+                "id": "6b582305-ae5f-4b21-b4bd-25fa3eee89e2",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/jumped\/jumped.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "b7973720-82d5-4f96-bae1-182b7946427e",
             "Value": {
                 "id": "f572813a-3ba4-4717-901d-accf20009d1b",
@@ -834,6 +872,82 @@
                 ],
                 "resourcePath": "views\/b7973720-82d5-4f96-bae1-182b7946427e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bab0a041-922f-416f-bed6-2de0e2111d24",
+            "Value": {
+                "id": "9ee7a26b-321c-4ab4-8ccb-ae8e6d7c461d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/jump_dust\/jump_dust.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "c06c2bc8-8708-4f1b-a813-da5606625ec5",
+            "Value": {
+                "id": "ec498b79-c4e0-4f2d-afb0-56f1da4fe95a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_player_dust_jump\/s_player_dust_jump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c91107eb-b4a8-4cf3-be67-ca5a7b6ddb9d",
+            "Value": {
+                "id": "9ffe3b1e-7e79-429a-955e-5328e8b9d512",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_player_dust_land\/o_player_dust_land.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d8c1eaf5-cc0f-41cb-aab0-089fc4530890",
+            "Value": {
+                "id": "abc81bf8-a8a8-45ab-beaf-715a362f1ee8",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_player_dust_jump\/o_player_dust_jump.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -977,6 +1091,8 @@
         "f6f2fd81-7b53-4c88-a98d-24ffd9892531",
         "08b5b74c-96d2-46bf-9899-1b87942e110a",
         "a78c57dd-9691-483e-904b-c8e13b9ac837",
+        "b75b9120-b944-4d09-926c-d2aed051ae68",
+        "bab0a041-922f-416f-bed6-2de0e2111d24",
         "edbe5fa7-fed0-470d-aec3-737ca953e4d9",
         "7a8eae70-d785-4f07-b55c-1afac3ac5afa",
         "6d2f0a02-5e1b-4dac-b835-a4523ec37812",
